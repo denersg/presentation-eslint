@@ -1,0 +1,17 @@
+.content-rules{
+    /* background-color: tomato; */
+    width: 100%;
+    /* height: 100%; */
+    padding: 20px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+.content-rules strong{
+    font-weight: bold;
+}
+
+.incorrect img, .correct img{
+    border-radius: 20px;
+}
